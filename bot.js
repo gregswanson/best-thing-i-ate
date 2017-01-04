@@ -1,7 +1,7 @@
 /*
-1. conect to a twitter account
-2. search for "best thing i ever ate"
-3. choose randon tweet from search
+1. conect to a twitter account - done
+2. search for "best thing i ever ate" - done
+3. choose random tweet from search - done
 4. tweet is not one tweeted before
 5. post tweet on twitter
 6. run code repeats x number of minutes
@@ -12,11 +12,11 @@
 API Stuff
 -------------------------------
 
-Consumer Key (API Key)	yeeKpkXjTVobq2EwtREID7HVr
-Consumer Secret (API Secret)	fPQnhJuXLi7PwEwQ4KKUE6an0QZYLQpzr7Wfdg82roLtobTe2B
+Consumer Key (API Key)	QOVOAhOcQkElz3kpxyspoLwY3
+Consumer Secret (API Secret)	e4YFWlWwdogQbAk5y84SxHdWVeAKugS9YZdhAHvoOtErrsnhpw
 
-Access Token	715349654607683584-7QMzoLwET3qCu1QGDM94JHnQ2c2uHLN
-Access Token Secret	KWU0m0vaXvR28fZk3Aq3kVGx2NMKIl7gtamWBBK5fAS47
+Access Token	816733086201368590-1ZFeqcdNQdrcB4aMYYFcGYJqpm3rVHI
+Access Token Secret	3p4I7ALHL2TGpoloEeRnD0DebCJLUE7Od5o6op1lX7Mki
 */
 
 var Twitter = require('twitter');
@@ -24,21 +24,70 @@ var fs = require("fs");
 
 //connected to twitter 
 var client = new Twitter({
-  consumer_key: 'yeeKpkXjTVobq2EwtREID7HVr',
-  consumer_secret: 'fPQnhJuXLi7PwEwQ4KKUE6an0QZYLQpzr7Wfdg82roLtobTe2B',
-  access_token_key: '715349654607683584-7QMzoLwET3qCu1QGDM94JHnQ2c2uHLN',
-  access_token_secret: 'KWU0m0vaXvR28fZk3Aq3kVGx2NMKIl7gtamWBBK5fAS47'
+  consumer_key: 'QOVOAhOcQkElz3kpxyspoLwY3',
+  consumer_secret: 'e4YFWlWwdogQbAk5y84SxHdWVeAKugS9YZdhAHvoOtErrsnhpw',
+  access_token_key: '816733086201368590-1ZFeqcdNQdrcB4aMYYFcGYJqpm3rVHI',
+  access_token_secret: '3p4I7ALHL2TGpoloEeRnD0DebCJLUE7Od5o6op1lX7Mki'
 });
- 
-var params = {screen_name: 'nodejs'};
-client.get('statuses/user_timeline', params, function(error, tweets, response) {
-  if (!error) {
-    console.log(tweets);
 
-// save twitter feed to text file
+
+
+
+//Tweet options
+var all_tweets = [];
+
+
+//Run a search for "Best Thing I Ever Ate"
+client.get('search/tweets', {q: 'Best Thing I Ever Ate'}, function(error, tweets, response) {
+   //console.log(tweets);
+
+//loop through all tweets
+   for(tweet in tweets.statuses) {
+   	
+   	//add tweets to tweet list
+   	all_tweets.push({
+   		"text": tweets.statuses[tweet].text,
+   		"id": tweets.statuses[tweet].id,
+   		"name": tweets.statuses[tweet].user.name,
+   		"screen_name": tweets.statuses[tweet].user.screen_name,
+   		"location": tweets.statuses[tweet].user.location,
+   		"url": tweets.statuses[tweet].user.url 
+   	});
+
+   	//log  to console
+   	console.log(tweets.statuses[tweet].text);
+
+   }
+
+//choose a random number
+var random_element = Math.floor( Math.random() * all_tweets.length ) + 1;
+
+//choose a random tweet
+var selected_tweet = all_tweets[random_element];
+console.log("THIS IS A RANDOM TWEET: " + selected_tweet.text);
+
+//Test case for tweeting
+client.post('statuses/update', {status: selected_tweet.text}, function(error, tweet, response) {
+  if (!error) {
+    console.log(tweet);
+  }
+});
+
+
+// save to JSON file
+    fs.writeFile('contents.json', JSON.stringify(all_tweets, null, '\t'), (err) => {
+	  if (err) throw err;
+	  console.log('It\'s saved!');
+	});
+
+// save twitter feed to JSON file
     fs.writeFile('tweets.json', JSON.stringify(tweets, null, '\t'), (err) => {
 	  if (err) throw err;
 	  console.log('It\'s saved!');
+	});
+
 });
-  }
-});
+
+
+
+ 
