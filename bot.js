@@ -3,7 +3,7 @@
 2. search for "best thing i ever ate" - done
 3. choose random tweet from search - done
 4. tweet is not one tweeted before
-5. post tweet on twitter
+5. post tweet on twitter - done
 6. run code repeats x number of minutes
 7. diploy worker with node
 8. stretch - google image search of phrase and include pic
@@ -35,6 +35,7 @@ var client = new Twitter({
 
 //Tweet options
 var all_tweets = [];
+var historic_tweets = [];
 
 
 //Run a search for "Best Thing I Ever Ate"
@@ -64,10 +65,25 @@ var random_element = Math.floor( Math.random() * all_tweets.length ) + 1;
 
 //choose a random tweet
 var selected_tweet = all_tweets[random_element];
+
+if(!(selected_tweet in historic_tweets) && (selected_tweet.screen_name != "EatingThings101")) {
+	//push selected tweet to historic_tweets
+	historic_tweets.push(selected_tweet);
+}
+
+
+// save historic_tweets to JSON file
+    fs.writeFile('historic_tweets.json', JSON.stringify(historic_tweets, null, '\t'), (err) => {
+	  if (err) throw err;
+	  console.log('It\'s saved!');
+	});
+
+
+
 console.log("THIS IS A RANDOM TWEET: " + selected_tweet.text);
 
 //Test case for tweeting
-client.post('statuses/update', {status: selected_tweet.text}, function(error, tweet, response) {
+client.post('statuses/update', {status: selected_tweet.text + ": @" + selected_tweet.screen_name}, function(error, tweet, response) {
   if (!error) {
     console.log(tweet);
   }
