@@ -39,8 +39,8 @@ var historic_tweets = [];
 
 
 //Run a search for "Best Thing I Ever Ate"
-client.get('search/tweets', {q: 'Best Thing I Ever Ate'}, function(error, tweets, response) {
-   //console.log(tweets);
+client.get('search/tweets', {q: 'Best Thing I Ever Ate', count: 100}, function(error, tweets, response) {
+   console.log(tweets);
 
 //loop through all tweets
    for(tweet in tweets.statuses) {
@@ -60,17 +60,34 @@ client.get('search/tweets', {q: 'Best Thing I Ever Ate'}, function(error, tweets
 
    }
 
-//choose a random number
-var random_element = Math.floor( Math.random() * all_tweets.length ) + 1;
 
-//choose a random tweet
-var selected_tweet = all_tweets[random_element];
 
-if(!(selected_tweet in historic_tweets) && (selected_tweet.screen_name != "EatingThings101")) {
-	//push selected tweet to historic_tweets
-	historic_tweets.push(selected_tweet);
+
+var found_one = false;
+
+while(!found_one){
+	//choose a random number
+	var random_element = Math.floor( Math.random() * all_tweets.length-1) + 1;
+
+	//choose a random tweet
+	var selected_tweet = all_tweets[random_element];
+
+	if(!(selected_tweet in historic_tweets) && (selected_tweet.screen_name != "EatingThings101")) {
+		//push selected tweet to historic_tweets
+		historic_tweets.push(selected_tweet);
+		found_one = true;
+
+		//Test case for tweeting
+		client.post('statuses/update', {status: selected_tweet.text}, function(error, tweet, response) {
+		  if (!error) {
+		    console.log(tweet);
+		    
+		  }
+
+		  
+		});
+	}
 }
-
 
 // save historic_tweets to JSON file
     fs.writeFile('historic_tweets.json', JSON.stringify(historic_tweets, null, '\t'), (err) => {
@@ -82,12 +99,7 @@ if(!(selected_tweet in historic_tweets) && (selected_tweet.screen_name != "Eatin
 
 console.log("THIS IS A RANDOM TWEET: " + selected_tweet.text);
 
-//Test case for tweeting
-client.post('statuses/update', {status: selected_tweet.text + ": @" + selected_tweet.screen_name}, function(error, tweet, response) {
-  if (!error) {
-    console.log(tweet);
-  }
-});
+
 
 
 // save to JSON file

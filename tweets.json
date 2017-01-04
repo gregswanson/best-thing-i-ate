@@ -1,6 +1,768 @@
 {
 	"statuses": [
 		{
+			"created_at": "Wed Jan 04 21:52:48 +0000 2017",
+			"id": 816764340808335400,
+			"id_str": "816764340808335362",
+			"text": "@oinkgurl I am watching an episode of 'Best Thing I Ever Ate' and I realized how much I miss ur smiling face.  I hope u r well.  Happy 2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oinkgurl",
+						"name": "Gina Neely",
+						"id": 275742153,
+						"id_str": "275742153",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 275742153,
+			"in_reply_to_user_id_str": "275742153",
+			"in_reply_to_screen_name": "oinkgurl",
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 21:51:51 +0000 2017",
+			"id": 816764102261489700,
+			"id_str": "816764102261489664",
+			"text": "@PatNeelyBBQKing I am watching an episode of 'Best Thing I Ever Ate' and I realized how much I miss your show.  I hope u r well.  Happy 2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PatNeelyBBQKing",
+						"name": "Patrick Neely",
+						"id": 386677697,
+						"id_str": "386677697",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 386677697,
+			"in_reply_to_user_id_str": "386677697",
+			"in_reply_to_screen_name": "PatNeelyBBQKing",
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 21:32:03 +0000 2017",
+			"id": 816759121039003600,
+			"id_str": "816759121039003648",
+			"text": "@mklausing9533 bacon is never a problem. I had pancakes with bacon in them the other day...may have been the best thing I ever ate.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mklausing9533",
+						"name": "Matt Klausing",
+						"id": 302326235,
+						"id_str": "302326235",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 302326235,
+			"in_reply_to_user_id_str": "302326235",
+			"in_reply_to_screen_name": "mklausing9533",
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 21:31:52 +0000 2017",
+			"id": 816759074901684200,
+			"id_str": "816759074901684224",
+			"text": "RT @EatingThings101: @idk1718 @bestfoodeva4eva i found the strawberries in vegas it was the best thing i ever ate in my life: @brandonnickss",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EatingThings101",
+						"name": "EatingThings",
+						"id": 816733086201368600,
+						"id_str": "816733086201368590",
+						"indices": [
+							3,
+							19
+						]
+					},
+					{
+						"screen_name": "idk1718",
+						"name": "madalin♒️",
+						"id": 759977713146982400,
+						"id_str": "759977713146982400",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"screen_name": "bestfoodeva4eva",
+						"name": "Best Food Eva4Eva",
+						"id": 816450584534519800,
+						"id_str": "816450584534519808",
+						"indices": [
+							30,
+							46
+						]
+					},
+					{
+						"screen_name": "brandonnickss",
+						"name": "bran",
+						"id": 4924200254,
+						"id_str": "4924200254",
+						"indices": [
+							126,
+							140
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 21:29:46 +0000 2017",
+			"id": 816758544427057200,
+			"id_str": "816758544427057152",
+			"text": "@mklausing9533 bacon is never a problem. I had pancakes with bacon in them the other day...may have been the best thing I ever ate.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mklausing9533",
+						"name": "Matt Klausing",
+						"id": 302326235,
+						"id_str": "302326235",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 816756253108080600,
+			"in_reply_to_status_id_str": "816756253108080640",
+			"in_reply_to_user_id": 302326235,
+			"in_reply_to_user_id_str": "302326235",
+			"in_reply_to_screen_name": "mklausing9533",
+			"user": {
+				"id": 399456054,
+				"id_str": "399456054",
+				"name": "Miss Podolsky",
+				"screen_name": "MissPodolsky",
+				"location": "410 by way of 215 and 412",
+				"description": "The hierarchy: Eagles, Steelers, KU bball, Oregon Ducks errrrythang, Sparty bball/fb, wherever Bob Huggins is, and Nate Diaz. Proudly sort of Kenyan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68,
+				"friends_count": 208,
+				"listed_count": 5,
+				"created_at": "Thu Oct 27 14:38:57 +0000 2011",
+				"favourites_count": 12112,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11374,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443303798/Twitter_v2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443303798/Twitter_v2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/731646973305061377/9zaSY3Fq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/731646973305061377/9zaSY3Fq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/399456054/1479650453",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 21:15:01 +0000 2017",
+			"id": 816754834628087800,
+			"id_str": "816754834628087808",
+			"text": "why are junior mints the best thing i've ever ate in my life: @kelsiecoleman02",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kelsiecoleman02",
+						"name": "kels",
+						"id": 1479836731,
+						"id_str": "1479836731",
+						"indices": [
+							62,
+							78
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 20:53:33 +0000 2017",
+			"id": 816749429982117900,
+			"id_str": "816749429982117894",
+			"text": "If you never tried crab nachos your missing out. Go try some &amp;amp;amp; thank me later 😩😋 the best darn thing I ever ate: @EatingThings101",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EatingThings101",
+						"name": "EatingThings",
+						"id": 816733086201368600,
+						"id_str": "816733086201368590",
+						"indices": [
+							125,
+							141
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com\" rel=\"nofollow\">best-thing-i-ate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816733086201368600,
+				"id_str": "816733086201368590",
+				"name": "EatingThings",
+				"screen_name": "EatingThings101",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 04 19:48:36 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 20:52:12 +0000 2017",
+			"id": 816749089996099600,
+			"id_str": "816749089996099584",
+			"text": "why are junior mints the best thing i've ever ate in my life",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1479836731,
+				"id_str": "1479836731",
+				"name": "kels",
+				"screen_name": "kelsiecoleman02",
+				"location": "Fairborn, OH",
+				"description": "i get irritated easily",
+				"url": "https://t.co/sp2rumMDGj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sp2rumMDGj",
+								"expanded_url": "https://www.instagram.com/kelsiecoleman/",
+								"display_url": "instagram.com/kelsiecoleman/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 751,
+				"friends_count": 894,
+				"listed_count": 3,
+				"created_at": "Mon Jun 03 14:19:27 +0000 2013",
+				"favourites_count": 8103,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603676245360906240/tdQ9t3Nw.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603676245360906240/tdQ9t3Nw.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813749989604212736/bD3WT9kZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813749989604212736/bD3WT9kZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1479836731/1483467148",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
 			"created_at": "Wed Jan 04 20:45:20 +0000 2017",
 			"id": 816747362991427600,
 			"id_str": "816747362991427584",
@@ -76,7 +838,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -188,7 +950,7 @@
 					}
 				},
 				"protected": false,
-				"followers_count": 238,
+				"followers_count": 239,
 				"friends_count": 63,
 				"listed_count": 0,
 				"created_at": "Thu Feb 18 06:03:30 +0000 2016",
@@ -302,7 +1064,7 @@
 					"time_zone": null,
 					"geo_enabled": false,
 					"verified": false,
-					"statuses_count": 9,
+					"statuses_count": 17,
 					"lang": "en",
 					"contributors_enabled": false,
 					"is_translator": false,
@@ -420,7 +1182,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -500,7 +1262,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -601,7 +1363,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -775,7 +1537,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -856,7 +1618,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -948,7 +1710,7 @@
 					}
 				},
 				"protected": false,
-				"followers_count": 238,
+				"followers_count": 239,
 				"friends_count": 63,
 				"listed_count": 0,
 				"created_at": "Thu Feb 18 06:03:30 +0000 2016",
@@ -1038,7 +1800,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1212,7 +1974,7 @@
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9,
+				"statuses_count": 17,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1594,7 +2356,7 @@
 					"friends_count": 78,
 					"listed_count": 14,
 					"created_at": "Fri Aug 14 03:55:50 +0000 2009",
-					"favourites_count": 4857,
+					"favourites_count": 4856,
 					"utc_offset": -18000,
 					"time_zone": "Eastern Time (US & Canada)",
 					"geo_enabled": false,
@@ -1630,7 +2392,7 @@
 				"contributors": null,
 				"is_quote_status": false,
 				"retweet_count": 2,
-				"favorite_count": 2,
+				"favorite_count": 4,
 				"favorited": false,
 				"retweeted": false,
 				"possibly_sensitive": false,
@@ -1642,15 +2404,3320 @@
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 17:47:45 +0000 2017",
+			"id": 816702671558213600,
+			"id_str": "816702671558213638",
+			"text": "RT @StudioMao: Best thing I ever ate in my life.  A close second is the 711 red hot spicy bean and meat burrito #jackinthebox https://t.co/…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jackinthebox",
+						"indices": [
+							112,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StudioMao",
+						"name": "Stephen Mao",
+						"id": 65555619,
+						"id_str": "65555619",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815540770350497800,
+				"id_str": "815540770350497792",
+				"name": "TryToRT",
+				"screen_name": "TryForRT",
+				"location": "Gémenos, France",
+				"description": "Lol",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 2,
+				"listed_count": 0,
+				"created_at": "Sun Jan 01 12:50:46 +0000 2017",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815541494404747264/awbs-g6u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815541494404747264/awbs-g6u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815540770350497792/1483275251",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Jan 04 13:45:31 +0000 2017",
+				"id": 816641714756743200,
+				"id_str": "816641714756743168",
+				"text": "Best thing I ever ate in my life.  A close second is the 711 red hot spicy bean and meat burrito #jackinthebox https://t.co/YVFneYradj",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "jackinthebox",
+							"indices": [
+								97,
+								110
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 816641701464965100,
+							"id_str": "816641701464965120",
+							"indices": [
+								111,
+								134
+							],
+							"media_url": "http://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+							"url": "https://t.co/YVFneYradj",
+							"display_url": "pic.twitter.com/YVFneYradj",
+							"expanded_url": "https://twitter.com/StudioMao/status/816641714756743168/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 661,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1166,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1242,
+									"h": 1207,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 816641701464965100,
+							"id_str": "816641701464965120",
+							"indices": [
+								111,
+								134
+							],
+							"media_url": "http://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+							"url": "https://t.co/YVFneYradj",
+							"display_url": "pic.twitter.com/YVFneYradj",
+							"expanded_url": "https://twitter.com/StudioMao/status/816641714756743168/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 661,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1166,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1242,
+									"h": 1207,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 65555619,
+					"id_str": "65555619",
+					"name": "Stephen Mao",
+					"screen_name": "StudioMao",
+					"location": "Instagram: StudioMao",
+					"description": "'Wildling' starting Liv Tyler & Bel Powley coming Soon. 'Freak Show' on deck toplining Bette Midler, Alex Lawther, Abigail Breslin and AnnaSophia Robb in post.",
+					"url": "https://t.co/W7PDTthrbl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/W7PDTthrbl",
+									"expanded_url": "http://www.studiomao.com",
+									"display_url": "studiomao.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1547,
+					"friends_count": 78,
+					"listed_count": 14,
+					"created_at": "Fri Aug 14 03:55:50 +0000 2009",
+					"favourites_count": 4856,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 710,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/805532895972589568/iXTSWNjQ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/805532895972589568/iXTSWNjQ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/65555619/1468585086",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 17:11:50 +0000 2017",
+			"id": 816693636117037000,
+			"id_str": "816693636117037056",
+			"text": "If you never tried crab nachos your missing out. Go try some &amp; thank me later 😩😋 the best darn thing I ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4383069198,
+				"id_str": "4383069198",
+				"name": "Lis Love.",
+				"screen_name": "lislove_xo",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 180,
+				"friends_count": 266,
+				"listed_count": 0,
+				"created_at": "Sat Nov 28 01:16:39 +0000 2015",
+				"favourites_count": 1126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816672697803382785/sKgCJ6O8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816672697803382785/sKgCJ6O8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4383069198/1483403250",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 16:45:17 +0000 2017",
+			"id": 816686954829987800,
+			"id_str": "816686954829987841",
+			"text": "That fillet steak I had at the Chianti was the best thing I've ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 944466314,
+				"id_str": "944466314",
+				"name": "Lou",
+				"screen_name": "LouisaKeddie",
+				"location": "Scotland, United Kingdom",
+				"description": "19🦄",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1022,
+				"friends_count": 897,
+				"listed_count": 0,
+				"created_at": "Mon Nov 12 19:51:58 +0000 2012",
+				"favourites_count": 4065,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/709887875/e5a814b24faf71854403d1e63e9810dc.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/709887875/e5a814b24faf71854403d1e63e9810dc.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809737506518421504/ywco9NgX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809737506518421504/ywco9NgX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/944466314/1481891456",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 14:08:03 +0000 2017",
+			"id": 816647381781512200,
+			"id_str": "816647381781512192",
+			"text": "@Admiralowen it's the best thing I ever, I ate about 50 in December and have put on 50 million pounds of flesh on my body as a result",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Admiralowen",
+						"name": "Owen Van Santa",
+						"id": 14778241,
+						"id_str": "14778241",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 816647224671301600,
+			"in_reply_to_status_id_str": "816647224671301632",
+			"in_reply_to_user_id": 14778241,
+			"in_reply_to_user_id_str": "14778241",
+			"in_reply_to_screen_name": "Admiralowen",
+			"user": {
+				"id": 105582554,
+				"id_str": "105582554",
+				"name": "Tina Mories",
+				"screen_name": "TinaMories",
+				"location": "London",
+				"description": "PR Manager @HotKeyBooks @PiccadillyPress (Certified Geek - all opinions are my own)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2414,
+				"friends_count": 3843,
+				"listed_count": 67,
+				"created_at": "Sat Jan 16 20:26:39 +0000 2010",
+				"favourites_count": 2906,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14949,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C0D0D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628144389127319552/wwpk7-OJ.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628144389127319552/wwpk7-OJ.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/595707628069724163/yjJIywW__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/595707628069724163/yjJIywW__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105582554/1462454232",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5DA96",
+				"profile_text_color": "0D0D0D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 13:45:31 +0000 2017",
+			"id": 816641714756743200,
+			"id_str": "816641714756743168",
+			"text": "Best thing I ever ate in my life.  A close second is the 711 red hot spicy bean and meat burrito #jackinthebox https://t.co/YVFneYradj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jackinthebox",
+						"indices": [
+							97,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 816641701464965100,
+						"id_str": "816641701464965120",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+						"url": "https://t.co/YVFneYradj",
+						"display_url": "pic.twitter.com/YVFneYradj",
+						"expanded_url": "https://twitter.com/StudioMao/status/816641714756743168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 661,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1166,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1207,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816641701464965100,
+						"id_str": "816641701464965120",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1VLTPyXAAAiSHE.jpg",
+						"url": "https://t.co/YVFneYradj",
+						"display_url": "pic.twitter.com/YVFneYradj",
+						"expanded_url": "https://twitter.com/StudioMao/status/816641714756743168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 661,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1166,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1207,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65555619,
+				"id_str": "65555619",
+				"name": "Stephen Mao",
+				"screen_name": "StudioMao",
+				"location": "Instagram: StudioMao",
+				"description": "'Wildling' starting Liv Tyler & Bel Powley coming Soon. 'Freak Show' on deck toplining Bette Midler, Alex Lawther, Abigail Breslin and AnnaSophia Robb in post.",
+				"url": "https://t.co/W7PDTthrbl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W7PDTthrbl",
+								"expanded_url": "http://www.studiomao.com",
+								"display_url": "studiomao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1547,
+				"friends_count": 78,
+				"listed_count": 14,
+				"created_at": "Fri Aug 14 03:55:50 +0000 2009",
+				"favourites_count": 4856,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 710,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805532895972589568/iXTSWNjQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805532895972589568/iXTSWNjQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65555619/1468585086",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 09:33:57 +0000 2017",
+			"id": 816578402861846500,
+			"id_str": "816578402861846528",
+			"text": "A Potato salad sandwich is the best thing I've ever ate when I'm drunk lol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2437042796,
+				"id_str": "2437042796",
+				"name": "Kyle McGyle",
+				"screen_name": "kyle_ammann32",
+				"location": "Three Rivers // Victoria, TX",
+				"description": "the list is long, but distinguished",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 325,
+				"friends_count": 203,
+				"listed_count": 2,
+				"created_at": "Thu Apr 10 13:46:06 +0000 2014",
+				"favourites_count": 2363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812214250999517184/JOLLOSFZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812214250999517184/JOLLOSFZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2437042796/1482178441",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 00:48:37 +0000 2017",
+			"id": 816446201222561800,
+			"id_str": "816446201222561792",
+			"text": "65. The best thing I ever ate at a state fair or expo was a deep-fried Reese's peanut butter cup.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 816443220045557800,
+			"in_reply_to_status_id_str": "816443220045557760",
+			"in_reply_to_user_id": 622493,
+			"in_reply_to_user_id_str": "622493",
+			"in_reply_to_screen_name": "Wheeler",
+			"user": {
+				"id": 622493,
+				"id_str": "622493",
+				"name": "Andrew Wheeler",
+				"screen_name": "Wheeler",
+				"location": "Toronto, Ontario",
+				"description": "Editor-in-chief @comicsalliance. Writer on Freelance @chapterhouseca and Another Castle @onipress. Queer comics advocate. Repped by @Inkwellmgmt.",
+				"url": "https://t.co/EUmLVi21Ky",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUmLVi21Ky",
+								"expanded_url": "http://comicsalliance.com/",
+								"display_url": "comicsalliance.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6167,
+				"friends_count": 714,
+				"listed_count": 219,
+				"created_at": "Wed Jan 10 17:20:46 +0000 2007",
+				"favourites_count": 2710,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A11A2C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753622598/d23cb4eb6964c1527e17d810668402bd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753622598/d23cb4eb6964c1527e17d810668402bd.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805619710549233665/WBnGvLAX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805619710549233665/WBnGvLAX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/622493/1480909386",
+				"profile_link_color": "7A5F06",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "357B88",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Jan 04 00:15:08 +0000 2017",
+			"id": 816437771489386500,
+			"id_str": "816437771489386496",
+			"text": "I never eat desserts but this cookie pie is probably the best thing I have ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2229246498,
+				"id_str": "2229246498",
+				"name": "Chance",
+				"screen_name": "AvydChance",
+				"location": "Canton, OH/Orlando, FL",
+				"description": "@xohannnz is the best thing that has happened to me | https://t.co/xysXbRAURF",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xysXbRAURF",
+								"expanded_url": "http://www.twitch.tv/HeyItsChance",
+								"display_url": "twitch.tv/HeyItsChance",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2550,
+				"friends_count": 496,
+				"listed_count": 5,
+				"created_at": "Wed Dec 04 03:54:25 +0000 2013",
+				"favourites_count": 10039,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28510,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477614471116902400/d11-bmkn.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477614471116902400/d11-bmkn.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816023477136322560/DooGH2vC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816023477136322560/DooGH2vC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2229246498/1481595093",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 23:33:50 +0000 2017",
+			"id": 816427379325370400,
+			"id_str": "816427379325370368",
+			"text": "@jcellurale10 @AndrewDav_  in &amp; out was probably the best thing I've ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jcellurale10",
+						"name": "John Cellurale",
+						"id": 2933737930,
+						"id_str": "2933737930",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "AndrewDav_",
+						"name": "Andy",
+						"id": 2164025716,
+						"id_str": "2164025716",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 816411755329048600,
+			"in_reply_to_status_id_str": "816411755329048576",
+			"in_reply_to_user_id": 2933737930,
+			"in_reply_to_user_id_str": "2933737930",
+			"in_reply_to_screen_name": "jcellurale10",
+			"user": {
+				"id": 627013938,
+				"id_str": "627013938",
+				"name": "callie",
+				"screen_name": "calliecunningh3",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 387,
+				"listed_count": 1,
+				"created_at": "Thu Jul 05 01:10:42 +0000 2012",
+				"favourites_count": 1999,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2260,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802151420875210752/3V8yx_gu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802151420875210752/3V8yx_gu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/627013938/1482375928",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 23:12:01 +0000 2017",
+			"id": 816421891581808600,
+			"id_str": "816421891581808640",
+			"text": "I just had a chocolate snowman and omg that was the best thing I ever ate !!!!!!!!!!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2279436508,
+				"id_str": "2279436508",
+				"name": "JASMINE  ❧",
+				"screen_name": "dieb4ur20",
+				"location": "Basingstoke, England",
+				"description": "I'm the ginger one",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 219,
+				"listed_count": 0,
+				"created_at": "Mon Jan 13 16:25:06 +0000 2014",
+				"favourites_count": 1198,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 339,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811708671713492993/O15wPxc9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811708671713492993/O15wPxc9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2279436508/1476809210",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 22:16:38 +0000 2017",
+			"id": 816407949866389500,
+			"id_str": "816407949866389505",
+			"text": "What is the best thing you ever ate? — I really don't know, gotta think about that  https://t.co/pM7SHr3edp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pM7SHr3edp",
+						"expanded_url": "https://curiouscat.me/2198473674/post/67260284?t=1483481797",
+						"display_url": "curiouscat.me/2198473674/pos…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://curiouscat.me\" rel=\"nofollow\">Curious Cat</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2198473674,
+				"id_str": "2198473674",
+				"name": "Q♠️™.....",
+				"screen_name": "_YeahthatsQ",
+				"location": "1️⃣1️⃣",
+				"description": "D. Lewis|6'0 205 WBHS 2017 LB|〽️ichigan|",
+				"url": "https://t.co/iDZxOLN67P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iDZxOLN67P",
+								"expanded_url": "http://www.hudl.com/athlete/4445857/highlights/294958396#",
+								"display_url": "hudl.com/athlete/444585…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1237,
+				"friends_count": 2354,
+				"listed_count": 2,
+				"created_at": "Sat Nov 16 21:58:46 +0000 2013",
+				"favourites_count": 2537,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9266CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813517692049248256/jdxPOyLS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813517692049248256/jdxPOyLS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2198473674/1482269928",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 20:37:14 +0000 2017",
+			"id": 816382935125413900,
+			"id_str": "816382935125413891",
+			"text": "bri let me tries Moe's today and it was the best thing I've ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1430660065,
+				"id_str": "1430660065",
+				"name": "Cindy",
+				"screen_name": "rachel__nicolee",
+				"location": "tylers",
+				"description": "sassy as fuck// TAM💜",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 385,
+				"listed_count": 0,
+				"created_at": "Wed May 15 14:29:26 +0000 2013",
+				"favourites_count": 4534,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18771,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537241013052391425/OfujHabL.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537241013052391425/OfujHabL.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813264150403104768/OhhktUoM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813264150403104768/OhhktUoM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1430660065/1476244664",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 16:47:13 +0000 2017",
+			"id": 816325050701844500,
+			"id_str": "816325050701844480",
+			"text": "I liked a @YouTube video https://t.co/GaAyLG1OWs Shapiro's Peppered Beef - The Best Thing I Ever Ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							10,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GaAyLG1OWs",
+						"expanded_url": "http://youtu.be/3QAcnISptjY?a",
+						"display_url": "youtu.be/3QAcnISptjY?a",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1353611114,
+				"id_str": "1353611114",
+				"name": "Ix Rhe'Xil",
+				"screen_name": "Genji316",
+				"location": "",
+				"description": "im an emo elf that have a crush on a wolf hybrid :T k...whatever...i rule here =A=;;",
+				"url": "http://t.co/BME4R5hy6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BME4R5hy6x",
+								"expanded_url": "http://www.youtube.com/user/genji316",
+								"display_url": "youtube.com/user/genji316",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 399,
+				"listed_count": 0,
+				"created_at": "Mon Apr 15 06:12:52 +0000 2013",
+				"favourites_count": 802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "230BD6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/846889350/46c3d67c5da51e51f964ba84fd6c71da.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/846889350/46c3d67c5da51e51f964ba84fd6c71da.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583934738190041088/DXrlvPgi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583934738190041088/DXrlvPgi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1353611114/1428055886",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 16:46:06 +0000 2017",
+			"id": 816324769209581600,
+			"id_str": "816324769209581568",
+			"text": "I liked a @YouTube video https://t.co/GOzXaHUTyr Brent's Deli - The Best Thing I Ever Ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							10,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GOzXaHUTyr",
+						"expanded_url": "http://youtu.be/Z68ZTCoY4gI?a",
+						"display_url": "youtu.be/Z68ZTCoY4gI?a",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1353611114,
+				"id_str": "1353611114",
+				"name": "Ix Rhe'Xil",
+				"screen_name": "Genji316",
+				"location": "",
+				"description": "im an emo elf that have a crush on a wolf hybrid :T k...whatever...i rule here =A=;;",
+				"url": "http://t.co/BME4R5hy6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BME4R5hy6x",
+								"expanded_url": "http://www.youtube.com/user/genji316",
+								"display_url": "youtube.com/user/genji316",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 399,
+				"listed_count": 0,
+				"created_at": "Mon Apr 15 06:12:52 +0000 2013",
+				"favourites_count": 802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "230BD6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/846889350/46c3d67c5da51e51f964ba84fd6c71da.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/846889350/46c3d67c5da51e51f964ba84fd6c71da.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583934738190041088/DXrlvPgi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583934738190041088/DXrlvPgi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1353611114/1428055886",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 06:40:37 +0000 2017",
+			"id": 816172394830139400,
+			"id_str": "816172394830139392",
+			"text": "I literally ate Taco Bell for the first time in like a good 6 months today and it was the best thing ever",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248048900,
+				"id_str": "248048900",
+				"name": "Danielle Johnson",
+				"screen_name": "dmarie_johnson",
+				"location": "Fort Wayne, IN",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 838,
+				"friends_count": 354,
+				"listed_count": 1,
+				"created_at": "Sun Feb 06 04:16:21 +0000 2011",
+				"favourites_count": 5341,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEB2CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/386618017/2012.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/386618017/2012.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794521912902762497/tCu6nkz0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794521912902762497/tCu6nkz0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248048900/1373079744",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6ffcf3b0b904bbcb",
+				"url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json",
+				"place_type": "admin",
+				"name": "Kentucky",
+				"full_name": "Kentucky, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-89.57151,
+								36.497129
+							],
+							[
+								-81.964971,
+								36.497129
+							],
+							[
+								-81.964971,
+								39.147359
+							],
+							[
+								-89.57151,
+								39.147359
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 04:57:15 +0000 2017",
+			"id": 816146383497560000,
+			"id_str": "816146383497560064",
+			"text": "The chicken California sub I had today was the best thing I've ever ate in my life omg I want another one 👅😩",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 604139559,
+				"id_str": "604139559",
+				"name": "Haley Davis",
+				"screen_name": "haydrizzle_",
+				"location": "West by God Virginia",
+				"description": "Cody keeps me happy ❤",
+				"url": "https://t.co/OaXjVwUJyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OaXjVwUJyG",
+								"expanded_url": "http://www.Instagram.com/haydrizzle",
+								"display_url": "Instagram.com/haydrizzle",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 860,
+				"friends_count": 449,
+				"listed_count": 2,
+				"created_at": "Sun Jun 10 00:56:25 +0000 2012",
+				"favourites_count": 27304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25855,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814614734364348416/jf1YFtNy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814614734364348416/jf1YFtNy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/604139559/1482779951",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2d83c71ce16cd187",
+				"url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+				"place_type": "admin",
+				"name": "West Virginia",
+				"full_name": "West Virginia, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.644739,
+								37.201483
+							],
+							[
+								-77.7189303,
+								37.201483
+							],
+							[
+								-77.7189303,
+								40.638802
+							],
+							[
+								-82.644739,
+								40.638802
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 04:48:23 +0000 2017",
+			"id": 816144152383619100,
+			"id_str": "816144152383619072",
+			"text": "Sometimes I pretend that my food creations are on \"The Best Thing I Ever Ate\" lol.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 358473815,
+				"id_str": "358473815",
+				"name": "Brooke",
+				"screen_name": "brookitocheeto",
+				"location": "Minnesota",
+				"description": "nerd #BlackLivesMatter",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 236,
+				"listed_count": 3,
+				"created_at": "Sat Aug 20 00:11:41 +0000 2011",
+				"favourites_count": 3312,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10801,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433664326545600512/4auJIrwh.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433664326545600512/4auJIrwh.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781607082105540608/ogqhmAJp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781607082105540608/ogqhmAJp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/358473815/1431231320",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "573CC2",
+				"profile_text_color": "4F064F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 04:43:07 +0000 2017",
+			"id": 816142825318326300,
+			"id_str": "816142825318326272",
+			"text": "@_dianass bww was the best thing I've ever ate",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "_dianass",
+						"name": "Diana",
+						"id": 2737549642,
+						"id_str": "2737549642",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 816098652393328600,
+			"in_reply_to_status_id_str": "816098652393328640",
+			"in_reply_to_user_id": 2737549642,
+			"in_reply_to_user_id_str": "2737549642",
+			"in_reply_to_screen_name": "_dianass",
+			"user": {
+				"id": 2737549642,
+				"id_str": "2737549642",
+				"name": "Diana",
+				"screen_name": "_dianass",
+				"location": "",
+				"description": "17",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 509,
+				"friends_count": 452,
+				"listed_count": 4,
+				"created_at": "Fri Aug 08 20:20:12 +0000 2014",
+				"favourites_count": 8321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815743528244375553/GB2l4UEs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815743528244375553/GB2l4UEs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2737549642/1482523332",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 02:04:37 +0000 2017",
+			"id": 816102939349512200,
+			"id_str": "816102939349512193",
+			"text": "@Duff_Goldman Time to change the channel to the @CookingChannel &amp; watch you on old episodes of Best Thing I Ever Ate. Need new episodes!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Duff_Goldman",
+						"name": "Duff Goldman",
+						"id": 313916789,
+						"id_str": "313916789",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "CookingChannel",
+						"name": "Cooking Channel",
+						"id": 80943051,
+						"id_str": "80943051",
+						"indices": [
+							48,
+							63
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 313916789,
+			"in_reply_to_user_id_str": "313916789",
+			"in_reply_to_screen_name": "Duff_Goldman",
+			"user": {
+				"id": 26294531,
+				"id_str": "26294531",
+				"name": "Sue Johnson",
+				"screen_name": "YellowRoseofTX",
+				"location": "The Lone Star State: Texas",
+				"description": "Native Texan who loves cooking shows, reading & attending concerts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 89,
+				"listed_count": 29,
+				"created_at": "Tue Mar 24 18:45:22 +0000 2009",
+				"favourites_count": 4059,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59486,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39949394/smilingdanny.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39949394/smilingdanny.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572783994829348864/beu_9EPv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572783994829348864/beu_9EPv_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 01:38:28 +0000 2017",
+			"id": 816096356796403700,
+			"id_str": "816096356796403712",
+			"text": "@Duff_Goldman Watching you on \"The Best Thing I Ever Ate--Pizza.\" Still love #GinosEast ?? :)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GinosEast",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Duff_Goldman",
+						"name": "Duff Goldman",
+						"id": 313916789,
+						"id_str": "313916789",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 313916789,
+			"in_reply_to_user_id_str": "313916789",
+			"in_reply_to_screen_name": "Duff_Goldman",
+			"user": {
+				"id": 46927677,
+				"id_str": "46927677",
+				"name": "Julie Weden",
+				"screen_name": "Juijiee",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 409,
+				"listed_count": 4,
+				"created_at": "Sat Jun 13 17:40:05 +0000 2009",
+				"favourites_count": 20152,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/529712560862265344/i1bwpT8S_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/529712560862265344/i1bwpT8S_normal.jpeg",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Jan 03 00:35:59 +0000 2017",
+			"id": 816080634565238800,
+			"id_str": "816080634565238788",
+			"text": "Watching Best Thing I Ever Ate on @CookingChannel &amp; Bobby Flay was talking about Joe's Stone Crabs. I concur, I was… https://t.co/lDiY3Sho6R",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CookingChannel",
+						"name": "Cooking Channel",
+						"id": 80943051,
+						"id_str": "80943051",
+						"indices": [
+							34,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lDiY3Sho6R",
+						"expanded_url": "https://twitter.com/i/web/status/816080634565238788",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2230382181,
+				"id_str": "2230382181",
+				"name": "Catherine",
+				"screen_name": "Catherine_Haro",
+				"location": "Florida, USA",
+				"description": "Complete Dork. Fluent in Sarcasm. Master Procrastinator. Occasional Moments of Genius and/or Badassery.",
+				"url": "https://t.co/zJKSIVLl81",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zJKSIVLl81",
+								"expanded_url": "http://catherinefelloutofthetardis.tumblr.com/",
+								"display_url": "catherinefelloutofthetardis.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 247,
+				"friends_count": 808,
+				"listed_count": 12,
+				"created_at": "Tue Dec 17 16:58:15 +0000 2013",
+				"favourites_count": 2415,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3834,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641704730792628224/yGCnbpH6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641704730792628224/yGCnbpH6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2230382181/1462569413",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Jan 02 22:01:26 +0000 2017",
+			"id": 816041736938127400,
+			"id_str": "816041736938127362",
+			"text": "RT @eating_SY: Just made this but ate it too quick to take a picture! Must be the best thing I've ever made up - fruity &amp; delicious. https:…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "eating_SY",
+						"name": "Eating SY",
+						"id": 4195499956,
+						"id_str": "4195499956",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3038702891,
+				"id_str": "3038702891",
+				"name": "Belle Vue Magazine",
+				"screen_name": "bellevuemagz",
+				"location": "bellevuemagazine@gmail.com",
+				"description": "Community magazine for Belle Vue, Coleham, Reabrook and Sutton Park. Editor: Phil Gillam",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1513,
+				"friends_count": 1464,
+				"listed_count": 38,
+				"created_at": "Sun Feb 15 10:25:57 +0000 2015",
+				"favourites_count": 1777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1800,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/576050039249723392/AHZs1pV5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/576050039249723392/AHZs1pV5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3038702891/1453392468",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Jan 02 20:37:04 +0000 2017",
+				"id": 816020506168148000,
+				"id_str": "816020506168147968",
+				"text": "Just made this but ate it too quick to take a picture! Must be the best thing I've ever made up - fruity &amp; deliciou… https://t.co/WLt6sHbdYZ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/WLt6sHbdYZ",
+							"expanded_url": "https://twitter.com/i/web/status/816020506168147968",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4195499956,
+					"id_str": "4195499956",
+					"name": "Eating SY",
+					"screen_name": "eating_SY",
+					"location": "Shrewsbury, England",
+					"description": "We are a couple of (young!) middle aged people who love #food, love #Shrewsbury, love each other, & love life. We want to share our passion for all this & more.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 854,
+					"friends_count": 1111,
+					"listed_count": 26,
+					"created_at": "Sun Nov 15 17:11:52 +0000 2015",
+					"favourites_count": 1946,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2107,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/665948604570460160/VtZ9VotB_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/665948604570460160/VtZ9VotB_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4195499956/1448063190",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Jan 02 20:37:04 +0000 2017",
+			"id": 816020506168148000,
+			"id_str": "816020506168147968",
+			"text": "Just made this but ate it too quick to take a picture! Must be the best thing I've ever made up - fruity &amp; deliciou… https://t.co/WLt6sHbdYZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WLt6sHbdYZ",
+						"expanded_url": "https://twitter.com/i/web/status/816020506168147968",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4195499956,
+				"id_str": "4195499956",
+				"name": "Eating SY",
+				"screen_name": "eating_SY",
+				"location": "Shrewsbury, England",
+				"description": "We are a couple of (young!) middle aged people who love #food, love #Shrewsbury, love each other, & love life. We want to share our passion for all this & more.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 854,
+				"friends_count": 1111,
+				"listed_count": 26,
+				"created_at": "Sun Nov 15 17:11:52 +0000 2015",
+				"favourites_count": 1946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2107,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665948604570460160/VtZ9VotB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665948604570460160/VtZ9VotB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4195499956/1448063190",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Jan 02 20:24:37 +0000 2017",
+			"id": 816017373425791000,
+			"id_str": "816017373425790977",
+			"text": "@PatNeelyBBQKing I am watching an episode of 'Best Thing I Ever Ate' and I realized how much I miss your show.  I hope u r well.  Happy 2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PatNeelyBBQKing",
+						"name": "Patrick Neely",
+						"id": 386677697,
+						"id_str": "386677697",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 386677697,
+			"in_reply_to_user_id_str": "386677697",
+			"in_reply_to_screen_name": "PatNeelyBBQKing",
+			"user": {
+				"id": 781604304,
+				"id_str": "781604304",
+				"name": "Susan Anderson",
+				"screen_name": "Belle4365",
+				"location": "Annapolis, MD",
+				"description": "Love the St. Louis Cardinal!!!!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39,
+				"friends_count": 180,
+				"listed_count": 1,
+				"created_at": "Sun Aug 26 03:37:58 +0000 2012",
+				"favourites_count": 124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 157,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752542542533713921/s-p-lcOm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752542542533713921/s-p-lcOm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781604304/1468333988",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Jan 02 20:23:23 +0000 2017",
+			"id": 816017065224052700,
+			"id_str": "816017065224052736",
+			"text": "@oinkgurl I am watching an episode of 'Best Thing I Ever Ate' and I realized how much I miss ur smiling face.  I hope u r well.  Happy 2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oinkgurl",
+						"name": "Gina Neely",
+						"id": 275742153,
+						"id_str": "275742153",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 275742153,
+			"in_reply_to_user_id_str": "275742153",
+			"in_reply_to_screen_name": "oinkgurl",
+			"user": {
+				"id": 781604304,
+				"id_str": "781604304",
+				"name": "Susan Anderson",
+				"screen_name": "Belle4365",
+				"location": "Annapolis, MD",
+				"description": "Love the St. Louis Cardinal!!!!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39,
+				"friends_count": 180,
+				"listed_count": 1,
+				"created_at": "Sun Aug 26 03:37:58 +0000 2012",
+				"favourites_count": 124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 157,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752542542533713921/s-p-lcOm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752542542533713921/s-p-lcOm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781604304/1468333988",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Mon Jan 02 18:21:25 +0000 2017",
+			"id": 815986369256362000,
+			"id_str": "815986369256361985",
+			"text": "I just ate Fireball beef jerkey &amp; it was the best tasting thing ever",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1616354131,
+				"id_str": "1616354131",
+				"name": "meg",
+				"screen_name": "_megannlol",
+				"location": "outta this world ",
+				"description": "fuggem | TU'20 🍒",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 722,
+				"friends_count": 173,
+				"listed_count": 9,
+				"created_at": "Tue Jul 23 23:26:40 +0000 2013",
+				"favourites_count": 9006,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20504,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/500852673155846144/qSQPR_jb.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/500852673155846144/qSQPR_jb.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815806496395198464/jZoUeWFB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815806496395198464/jZoUeWFB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1616354131/1483560750",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 01 23:12:44 +0000 2017",
+			"id": 815697294020452400,
+			"id_str": "815697294020452352",
+			"text": "Justin's Granny's noodles are like the best thing I've ever ate. 😋 they are my favorite.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324651812,
+				"id_str": "324651812",
+				"name": "Abbie Lou",
+				"screen_name": "AbbieLouBae",
+				"location": "Central Michigan ",
+				"description": "🍷💕☮️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 377,
+				"friends_count": 421,
+				"listed_count": 2,
+				"created_at": "Mon Jun 27 00:32:57 +0000 2011",
+				"favourites_count": 1425,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23751,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810528774882283521/yBfSI4Po_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810528774882283521/yBfSI4Po_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324651812/1462404239",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 01 19:42:37 +0000 2017",
+			"id": 815644416237076500,
+			"id_str": "815644416237076480",
+			"text": "My mom just accidentally ate a stinkbug and her reaction was the best thing I've ever seen! Payback from me, for that one time...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 782359868791484400,
+				"id_str": "782359868791484416",
+				"name": "Twinkle Kittenz",
+				"screen_name": "LilyThePurson",
+				"location": "Darkness",
+				"description": "Just a person who has a YouTube called Twinkle Kittenz and is obsessed with two British nerds called Dan and Phil | High-key Phan, tøp, and Gravity Falls trash.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 27,
+				"listed_count": 0,
+				"created_at": "Sat Oct 01 23:21:43 +0000 2016",
+				"favourites_count": 900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814334585374998528/xwEMemge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814334585374998528/xwEMemge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/782359868791484416/1482987278",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 01 14:43:54 +0000 2017",
+			"id": 815569242024251400,
+			"id_str": "815569242024251392",
+			"text": "That shawarma I ate last night was the best thing that ever happened to me",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 360358629,
+				"id_str": "360358629",
+				"name": "Taylor Turk",
+				"screen_name": "taylorturkk",
+				"location": "Plymouth, MI",
+				"description": "Detroit Mercy Dance Team. ΓΦΒ💕",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 490,
+				"friends_count": 401,
+				"listed_count": 3,
+				"created_at": "Tue Aug 23 02:43:39 +0000 2011",
+				"favourites_count": 2381,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795118706863067137/nO-6dQIE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795118706863067137/nO-6dQIE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/360358629/1483411296",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b463d3bd6064861b",
+				"url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+				"place_type": "city",
+				"name": "Detroit",
+				"full_name": "Detroit, MI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.288056,
+								42.255085
+							],
+							[
+								-82.91052,
+								42.255085
+							],
+							[
+								-82.91052,
+								42.450488
+							],
+							[
+								-83.288056,
+								42.450488
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 01 10:50:35 +0000 2017",
+			"id": 815510524033011700,
+			"id_str": "815510524033011712",
+			"text": "I just ate chips and salsa and then a slice of apple pie and it was the best thing I have ever eaten",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 364720391,
+				"id_str": "364720391",
+				"name": "Jake bob",
+				"screen_name": "Jakeb0b",
+				"location": "",
+				"description": "Jake bob|faith in Jesus/musician/adventurer| Instagram:Jakeb0b",
+				"url": "https://t.co/Bw5zFppjrm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bw5zFppjrm",
+								"expanded_url": "https://www.facebook.com/pages/Jake-Bob/293408640788903?fref=ts",
+								"display_url": "facebook.com/pages/Jake-Bob…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245,
+				"friends_count": 145,
+				"listed_count": 7,
+				"created_at": "Tue Aug 30 06:40:21 +0000 2011",
+				"favourites_count": 6977,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568344205085245441/hblB6d3p.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568344205085245441/hblB6d3p.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800248054179692545/A7sLi1X9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800248054179692545/A7sLi1X9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/364720391/1385161187",
+				"profile_link_color": "6A48AB",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 01 02:31:57 +0000 2017",
+			"id": 815385041194786800,
+			"id_str": "815385041194786816",
+			"text": "I just ate a piece of guacamole toast, LITERALLY THE BEST THING EVER",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4828373238,
+				"id_str": "4828373238",
+				"name": "hannah",
+				"screen_name": "loveintae",
+				"location": "california ",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2130,
+				"friends_count": 154,
+				"listed_count": 31,
+				"created_at": "Fri Jan 29 02:38:29 +0000 2016",
+				"favourites_count": 29747,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10924,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816546904980877312/tBgSKYFu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816546904980877312/tBgSKYFu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4828373238/1481177093",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
 		}
 	],
 	"search_metadata": {
-		"completed_in": 0.137,
-		"max_id": 816747362991427600,
-		"max_id_str": "816747362991427584",
+		"completed_in": 0.191,
+		"max_id": 816764340808335400,
+		"max_id_str": "816764340808335362",
 		"query": "Best+Thing+I+Ever+Ate",
-		"refresh_url": "?since_id=816747362991427584&q=Best%20Thing%20I%20Ever%20Ate&include_entities=1",
-		"count": 15,
+		"refresh_url": "?since_id=816764340808335362&q=Best%20Thing%20I%20Ever%20Ate&include_entities=1",
+		"count": 100,
 		"since_id": 0,
 		"since_id_str": "0"
 	}
