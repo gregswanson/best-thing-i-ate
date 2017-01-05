@@ -1,15 +1,3 @@
-/*
-1. conect to a twitter account - done
-2. search for "best thing i ever ate" - done
-3. choose random tweet from search - done
-4. tweet is not one tweeted before
-5. post tweet on twitter - done
-6. run code repeats x number of minutes
-7. diploy worker with node
-8. stretch - google image search of phrase and include pic
-
-*/
-
 var Twitter = require('twitter');
 var fs = require("fs");
 
@@ -20,8 +8,6 @@ var client = new Twitter({
   access_token_key: '816733086201368590-1ZFeqcdNQdrcB4aMYYFcGYJqpm3rVHI',
   access_token_secret: '3p4I7ALHL2TGpoloEeRnD0DebCJLUE7Od5o6op1lX7Mki'
 });
-
-
 
 
 //Tweet options
