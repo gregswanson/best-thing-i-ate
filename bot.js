@@ -99,8 +99,7 @@ var tweetThatFood = function(){
 
 }
 
-tweetThatFood();
-
+setInterval(tweetThatFood, 1200000);
 
 
 
