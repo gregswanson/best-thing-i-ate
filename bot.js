@@ -35,7 +35,7 @@ var tweetThatFood = function(){
 	   	});
 
 	   	//log  to console
-	   	console.log(tweets.statuses[tweet].text);
+	   	//console.log(tweets.statuses[tweet].text);
 	   }
 
 	var found_one = false;
@@ -56,7 +56,7 @@ var tweetThatFood = function(){
 			//Test case for tweeting
 			client.post('statuses/update', {status: selected_tweet.text + "- @" + selected_tweet.screen_name}, function(error, tweet, response) {
 			  if (!error) {
-			    console.log(tweet); 
+			    //console.log(tweet); 
 			  } 
 			});
 		}
@@ -85,7 +85,7 @@ var tweetThatFood = function(){
 
 }
 
-setInterval(tweetThatFood, 60000);
+setInterval(tweetThatFood, 1200000);
 
 
 
